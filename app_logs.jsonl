@@ -1,0 +1,25 @@
+{"timestamp": "2026-07-13T23:37:17.254526", "event_type": "pdf_processed", "num_files": 2, "num_chunks": 62}
+{"timestamp": "2026-07-13T23:37:51.208959", "event_type": "intent_classified", "question": "두개 문서 각각 요약해저ㅜ", "intents": ["summary"], "raw_output": "summary"}
+{"timestamp": "2026-07-13T23:38:46.375325", "event_type": "query_complete", "question": "두개 문서 각각 요약해저ㅜ", "answer_length": 734, "elapsed_time": 56.75, "total_tokens": 34158, "prompt_tokens": 29598, "completion_tokens": 4560, "cost": 0.105388}
+{"timestamp": "2026-07-13T23:45:10.544709", "event_type": "intent_classified", "question": "월드비전 사업 예산이 얼마야?", "intents": ["search"], "raw_output": "search"}
+{"timestamp": "2026-07-13T23:45:13.803536", "event_type": "retrieval", "question": "월드비전 사업 예산이 얼마야?", "docs_retrieved": 13, "context_length": 8799}
+{"timestamp": "2026-07-13T23:45:17.648648", "event_type": "query_complete", "question": "월드비전 사업 예산이 얼마야?", "answer_length": 234, "elapsed_time": 8.14, "total_tokens": 5702, "prompt_tokens": 5520, "completion_tokens": 182, "cost": 0.015176}
+{"timestamp": "2026-07-13T23:46:24.205262", "event_type": "intent_classified", "question": "안녕", "intents": ["general"], "raw_output": "general"}
+{"timestamp": "2026-07-13T23:46:25.285630", "event_type": "query_complete", "question": "안녕", "answer_length": 45, "elapsed_time": 4.15, "total_tokens": 271, "prompt_tokens": 246, "completion_tokens": 25, "cost": 5.2e-05}
+{"timestamp": "2026-07-13T23:47:12.603824", "event_type": "intent_classified", "question": "월드비전  사업수행 일반조건 요약하고, 보안 요구사항도 알려줘", "intents": ["summary", "search"], "raw_output": "summary,search"}
+{"timestamp": "2026-07-13T23:47:15.102645", "event_type": "query_complete", "question": "월드비전  사업수행 일반조건 요약하고, 보안 요구사항도 알려줘", "answer_length": 126, "elapsed_time": 3.23, "total_tokens": 349, "prompt_tokens": 284, "completion_tokens": 65, "cost": 0.000871}
+{"timestamp": "2026-07-13T23:47:47.154467", "event_type": "intent_classified", "question": "월드비전 사업수행 일반조건 요약하고, 제안요청 세부내용도 알려줘", "intents": ["summary", "search"], "raw_output": "summary,search"}
+{"timestamp": "2026-07-13T23:47:48.687270", "event_type": "query_complete", "question": "월드비전 사업수행 일반조건 요약하고, 제안요청 세부내용도 알려줘", "answer_length": 128, "elapsed_time": 2.84, "total_tokens": 352, "prompt_tokens": 286, "completion_tokens": 66, "cost": 0.000882}
+{"timestamp": "2026-07-13T23:48:08.457272", "event_type": "intent_classified", "question": "RFP_공공 문서 요약하고 세부내용 알려줘", "intents": ["summary", "search"], "raw_output": "summary,search"}
+{"timestamp": "2026-07-13T23:48:09.585810", "event_type": "query_complete", "question": "RFP_공공 문서 요약하고 세부내용 알려줘", "answer_length": 126, "elapsed_time": 2.16, "total_tokens": 343, "prompt_tokens": 278, "completion_tokens": 65, "cost": 0.00087}
+{"timestamp": "2026-07-13T23:48:29.263410", "event_type": "intent_classified", "question": "안녕, 월드비전 사업 목적 뭐야", "intents": ["general", "search"], "raw_output": "general,search"}
+{"timestamp": "2026-07-13T23:48:33.094661", "event_type": "query_complete", "question": "안녕, 월드비전 사업 목적 뭐야", "answer_length": 379, "elapsed_time": 4.61, "total_tokens": 626, "prompt_tokens": 386, "completion_tokens": 240, "cost": 0.002246}
+{"timestamp": "2026-07-13T23:50:11.740826", "event_type": "intent_classified", "question": "월드비전 프로젝트 배경이 뭐야", "intents": ["search"], "raw_output": "search"}
+{"timestamp": "2026-07-13T23:50:15.029587", "event_type": "retrieval", "question": "월드비전 프로젝트 배경이 뭐야", "docs_retrieved": 16, "context_length": 12857}
+{"timestamp": "2026-07-13T23:50:17.989365", "event_type": "query_complete", "question": "월드비전 프로젝트 배경이 뭐야", "answer_length": 387, "elapsed_time": 7.26, "total_tokens": 7856, "prompt_tokens": 7573, "completion_tokens": 283, "cost": 0.021318}
+{"timestamp": "2026-07-13T23:50:38.160637", "event_type": "intent_classified", "question": "RFP_테크 문서 SFR-001 요구사항이 뭐야", "intents": ["search"], "raw_output": "search"}
+{"timestamp": "2026-07-13T23:50:41.185293", "event_type": "retrieval", "question": "RFP_테크 문서 SFR-001 요구사항이 뭐야", "docs_retrieved": 14, "context_length": 10051}
+{"timestamp": "2026-07-13T23:50:43.487938", "event_type": "query_complete", "question": "RFP_테크 문서 SFR-001 요구사항이 뭐야", "answer_length": 300, "elapsed_time": 5.97, "total_tokens": 6473, "prompt_tokens": 6258, "completion_tokens": 215, "cost": 0.017337}
+{"timestamp": "2026-07-13T23:51:07.801755", "event_type": "intent_classified", "question": "RFP_테크 문서 요구사항 개수가 몇개야", "intents": ["search"], "raw_output": "search"}
+{"timestamp": "2026-07-13T23:51:10.205225", "event_type": "retrieval", "question": "RFP_테크 문서 요구사항 개수가 몇개야", "docs_retrieved": 20, "context_length": 16966}
+{"timestamp": "2026-07-13T23:51:16.672318", "event_type": "query_complete", "question": "RFP_테크 문서 요구사항 개수가 몇개야", "answer_length": 233, "elapsed_time": 9.54, "total_tokens": 10432, "prompt_tokens": 10247, "completion_tokens": 185, "cost": 0.027014}
